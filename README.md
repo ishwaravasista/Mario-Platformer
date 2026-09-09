@@ -16,8 +16,6 @@ Mario Platformer is a Java platform game built with the Mayflower library. Guide
 
 For BlueJ, open `package.bluej`, ensure the Mayflower library is available in your BlueJ environment, compile the project, and run `Runner.main(String[] args)` with an empty argument array (`{}`).
 
-The project includes `mayflower3.3.7.jar` and `mayflower1.7.jar`; use the version configured for your course environment. Keep the `img` and `audio` folders in the project directory so the game can load its images and music.
-
 ## How to play
 
 1. Press **Space** on the intro screen to start.
@@ -33,10 +31,6 @@ Mario starts each world with three lives. Falling below the level or losing all 
 
 Press **Enter** on the game-over or victory screen to reach the replay screen, then press **Enter** again to restart.
 
-## Gameplay notes and limitations
+## Gameplay notes
 
 Knocked-over enemies can be pushed by touching them without damaging Mario.
-
-`World2` and `World3` initially display `Score: ? Lives: ?` until a score or life update occurs.
-
-Score carryover is currently incomplete because the Mario constructor does not assign the incoming score to its instance field, and the shared score tracker is not reset when replaying the game.
