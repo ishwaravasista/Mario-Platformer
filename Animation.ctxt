@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Animation
+comment1.params=actorFrames\ fps
+comment1.target=Animation(mayflower.MayflowerImage[],\ int)
+comment2.params=
+comment2.target=void\ mirrorHorizontally()
+comment3.params=
+comment3.target=void\ incrementFrame()
+comment4.params=
+comment4.target=void\ flip()
+comment5.params=
+comment5.target=mayflower.MayflowerImage\ getNextFrame()
+numComments=6

@@ -1,0 +1,1 @@
+run = "export CLASSPATH=\".:./jars/*\"; javac -d . Main.java MyWorld.java MyMayflower.java Cat.java; java Main"

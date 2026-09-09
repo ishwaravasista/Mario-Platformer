@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=scoreTracker
+comment1.params=
+comment1.target=scoreTracker()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=newScore
+comment3.target=void\ setScore(int)
+numComments=4

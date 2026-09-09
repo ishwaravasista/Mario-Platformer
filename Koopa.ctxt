@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Koopa
+comment1.params=
+comment1.target=Koopa()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ flip()
+comment4.params=
+comment4.target=void\ freeze()
+comment5.params=
+comment5.target=boolean\ getIsHit()
+comment6.params=isLeft
+comment6.target=void\ push(boolean)
+comment7.params=
+comment7.target=void\ hit()
+numComments=8
